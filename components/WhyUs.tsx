@@ -30,8 +30,8 @@ export default function WhyUs() {
         <div className="grid items-center gap-16 lg:grid-cols-2">
           <div className="relative aspect-[4/5] overflow-hidden rounded-2xl">
             <Image
-              src="/images/marina-bay-gardens.png"
-              alt="Singapore Gardens by the Bay at twilight"
+              src="/images/why-us-partnership.png"
+              alt="B2B travel partners planning Singapore itineraries with city skyline view"
               fill
               className="object-cover"
               sizes="(max-width: 1024px) 100vw, 50vw"
